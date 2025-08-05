@@ -4,7 +4,7 @@
 <img src="https://github.com/SafeStarGram/.github/blob/main/profile/profileimgs/main.png" alt="메인" />
 </div>
 
-## 👷 프로젝트 개요
+## 📝  프로젝트 개요
 ![project_period](https://img.shields.io/badge/Project%20Period-2025--08--04%20~%202025--09--28-FF7F4C)<br>
 
 이 프로젝트는 **건설 현장 또는 산업 현장에서의 안전을 실시간으로 관리**할 수 있는 **모바일 중심의 안전 관리 시스템**입니다.
